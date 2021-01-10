@@ -1,0 +1,1 @@
+I chose Lululemon for my first homework assignment. This assignment includes: 3 key website pages, basic code, without CSS styling and links between pages.
